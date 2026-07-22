@@ -1,6 +1,8 @@
 # Hi, I'm Saleh Ashref 👋
 
-Machine Learning Engineer specialising in Arabic NLP, LLM fine-tuning, and production ML systems. I build and deploy end-to-end AI pipelines using PyTorch, Hugging Face, and FastAPI.
+**AI & Machine Learning Engineer** focused on **Arabic NLP**, **Agentic AI**, **LLM Fine-tuning**, and **Production AI Systems**.
+
+I build end-to-end AI applications—from training and fine-tuning language models to designing retrieval pipelines, agentic workflows, and deploying scalable AI services. My work is centered around building practical AI systems for the Arabic language.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saleen.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-ashref-b16256202/)
@@ -9,42 +11,108 @@ Machine Learning Engineer specialising in Arabic NLP, LLM fine-tuning, and produ
 
 ---
 
-## 🔭 Currently Working On
+## 🚀 Current Focus
 
-- **Arabic News Agentic RAG** — LangGraph-based agent with hybrid retrieval (AraBERT + BM25) over 190k SANAD articles
-- LLM fine-tuning and Arabic NLP research
-- Building production ML APIs with FastAPI & Docker
+- 📰 **Arabic News Agentic RAG**
+  - LangGraph • AraBERT • BM25 • Qdrant • FastAPI
 
----
+- 📖 **AI Novel Translation Agent** *(In Progress)*
+  - Context-aware translation with long-term terminology memory and multi-agent workflows
 
-## 🛠️ Tech Stack
-
-**Languages:** Python, SQL  
-**ML/DL:** PyTorch, TensorFlow, Scikit-learn, XGBoost  
-**NLP & LLMs:** Hugging Face Transformers, BERT, LoRA/QLoRA, LangChain, LangGraph  
-**Deployment:** FastAPI, Docker, Docker Compose, Streamlit, Hugging Face Spaces  
-**Tools:** Git, MongoDB, Google Colab  
-**Specialties:** Arabic NLP, LLM Fine-tuning, Agentic RAG, Model Deployment
+- 🤖 Building production-ready AI systems using FastAPI, Docker, and Hugging Face
 
 ---
 
-## 🚀 Projects
+## 📊 Highlights
 
-### [Syntaxa — Prompt Generator](https://github.com/saleh-yasseen/Syntaxa_prompt_generator) · [HF Model](https://huggingface.co/saleen/syntaxa)
-LoRA fine-tuned Phi-3.5-mini-instruct (3.8B) for structured system prompt generation. Trained with QLoRA, 4-bit quantisation, cosine LR scheduling. **386+ organic downloads** on Hugging Face. Deployed as the ML backbone of [PromptHub](https://prompthub-lemon.vercel.app/en).
-
-### [Arabic Sentiment Analyzer](https://github.com/saleh-yasseen/Arabic_Sentiment_Analyzer) · [Live Demo](https://saleen-arabic-sentiment-analyzer.hf.space)
-Production FastAPI service using CAMeL-Lab's BERT model. ~87% accuracy, sub-100ms inference latency. Single and batch endpoints with Pydantic validation, containerised with Docker, deployed on Hugging Face Spaces.
-
-### [Phishing URL & SMS Spam Detection](https://github.com/saleh-yasseen/URL_phishing_SMS_Spam_detection)
-Benchmarked 10 classifiers across 20+ engineered URL features; Gradient Boosting achieved 97%+ accuracy, precision, recall, and F1 on held-out data. TF-IDF vectorised SMS classifier exposed through a unified FastAPI inference endpoint.
-
-### [Arabic News Agentic RAG](https://github.com/saleh-yasseen/Arabic_News_Agentic_RAG) *(in progress)*
-Agentic RAG system over 190k SANAD Arabic news articles. LangGraph state machine with four tools: search, summarise, timeline, and direct answer. Hybrid retrieval combining AraBERT dense embeddings and BM25 sparse retrieval.
+- 📰 **190,000+** indexed Arabic news articles
+- 🤗 **386+** Hugging Face model downloads
+- 🧠 Built multiple end-to-end AI systems from training to deployment
+- 🚀 Production deployments using FastAPI, Docker & Hugging Face Spaces
+- 🌍 Specialized in Arabic NLP, Retrieval Systems & LLM Engineering
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
-![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saleh-yasseen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saleh-yasseen&layout=compact&theme=radical)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+### Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0066CC?style=flat-square)
+
+### NLP & LLMs
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-blue?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA-Fine--Tuning-green?style=flat-square)
+![QLoRA](https://img.shields.io/badge/QLoRA-4bit-red?style=flat-square)
+![AraBERT](https://img.shields.io/badge/AraBERT-Arabic_NLP-orange?style=flat-square)
+
+### Retrieval & Databases
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-Sparse_Search-blue?style=flat-square)
+![Hybrid Search](https://img.shields.io/badge/Hybrid-Retrieval-success?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace-Spaces-yellow?style=flat-square)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📰 **[Arabic News Agentic RAG](https://github.com/saleh-yasseen/Arabic_News_Agentic_RAG)** | LangGraph-based Agentic RAG with hybrid retrieval over **190k+ Arabic news articles** |
+| 🧠 **[Syntaxa Prompt Generator](https://github.com/saleh-yasseen/Syntaxa_prompt_generator)** | QLoRA fine-tuned Phi-3.5 Mini for structured prompt generation (**386+ HF downloads**) |
+| 😊 **[Arabic Sentiment Analyzer](https://github.com/saleh-yasseen/Arabic_Sentiment_Analyzer)** | Production-ready Arabic sentiment analysis API using CAMeL-Lab BERT |
+| 🔐 **[URL Phishing & SMS Spam Detection](https://github.com/saleh-yasseen/URL_phishing_SMS_Spam_detection)** | ML security pipeline achieving **97%+ Accuracy, Precision, Recall & F1** |
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saleh-yasseen&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saleh-yasseen&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=saleh-yasseen&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Multi-Agent Systems
+- LLM Evaluation Frameworks
+- Long-Context Memory Architectures
+- AI Infrastructure & Production Systems
+- Distributed AI Pipelines
+
+---
+
+## 🤝 Let's Connect
+
+🌐 **Portfolio:** https://saleen.vercel.app
+
+💼 **LinkedIn:** https://www.linkedin.com/in/saleh-ashref-b16256202/
+
+🤗 **Hugging Face:** https://huggingface.co/saleen
+
+📧 **Email:** salehyassien0@gmail.com
+
+---
+
+<p align="center">
+<i>"Building intelligent AI systems for the Arabic language — from research to production."</i>
+</p>
