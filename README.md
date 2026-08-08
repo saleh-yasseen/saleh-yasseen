@@ -86,7 +86,7 @@ I build end-to-end AI applications—from training and fine-tuning language mode
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saleh-yasseen&theme=tokyonight&column=6" />
+  <img src="https://github-profile-trophy-max.vercel.app/?username=saleh-yasseen&theme=tokyonight" />
 </p>
 
 <p align="center">
