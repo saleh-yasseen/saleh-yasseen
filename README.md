@@ -85,9 +85,9 @@ I build end-to-end AI applications—from training and fine-tuning language mode
   <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saleh-yasseen&layout=compact&theme=tokyonight" height="170" /> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy-max.vercel.app/?username=saleh-yasseen&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=saleh-yasseen&theme=tokyonight&hide_border=true"/>
