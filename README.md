@@ -25,7 +25,6 @@ I build end-to-end AI applications—from training and fine-tuning language mode
 
 ## 📊 Highlights
 
-- 📰 **190,000+** indexed Arabic news articles
 - 🤗 **386+** Hugging Face model downloads
 - 🧠 Built multiple end-to-end AI systems from training to deployment
 - 🚀 Production deployments using FastAPI, Docker & Hugging Face Spaces
