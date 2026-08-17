@@ -1,76 +1,61 @@
-Hi, I'm Saleh Ashref 👋
+# Hi, I'm Saleh Ashref 👋
 
-AI Engineer focused on AI orchestration, production AI systems, Arabic NLP, and LLM engineering.
+**AI Engineer** specializing in **AI Orchestration**, **Production AI Systems**, **Arabic NLP**, and **LLM Engineering**.
 
-I build AI systems that retrieve, reason, orchestrate, and act, backed by a strong foundation in machine learning, deep learning, and LLM fine-tuning.
-
-""Portfolio" (https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)" (https://saleen.vercel.app)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/saleh-ashref-b16256202/)
-""Hugging Face" (https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)" (https://huggingface.co/saleen)
+I build AI systems that **retrieve, reason, orchestrate, and act**—backed by a strong foundation in machine learning, deep learning, and LLM fine-tuning.
 
 ---
 
-🚀 What I'm Building
+### 🌐 Connect with Me
 
-🔬 Arabic Research Assistant
-
-An agentic research system designed to decompose complex Arabic questions into sub-questions, research each part, and synthesize grounded answers.
-
-📚 Personal AI Knowledge Library
-
-A long-term personal system for organizing, retrieving, and working with my own knowledge.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://salehashref.com) <!-- Replace with your portfolio link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salehashref) <!-- Replace with your LinkedIn profile link -->
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co/salehashref) <!-- Replace with your HuggingFace profile link -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salehyassien0@gmail.com)
 
 ---
 
-⭐ Featured Project
+## ⭐ Featured Project
 
-"Arabic News Agentic RAG" (https://github.com/saleh-yasseen/Arabic_News_Agentic_RAG)
+### 📰 [Arabic News Agentic RAG](https://github.com/your-username/your-repo)
+> A completed agentic RAG system for Arabic news research, built around one core goal: **improving retrieval quality and grounding answers in retrieved evidence.**
 
-A completed agentic RAG system for Arabic news research, built around one core goal: improving retrieval quality and grounding answers in retrieved evidence.
-
-Stack: LangGraph · AraBERT · BM25 · RRF · Cohere Reranking · Qdrant · FastAPI · Streamlit
-
-Recall@5: "0.56" Dense → "0.63" BM25 → "0.74" Hybrid → "0.85" Hybrid + Reranking
-
-Includes an evaluation harness covering retrieval metrics, router accuracy, LLM-as-judge scoring, and latency analysis.
+* **Tech Stack:** `LangGraph` · `AraBERT` · `BM25` · `RRF` · `Cohere Reranking` · `Qdrant` · `FastAPI` · `Streamlit`
+* **Performance Benchmark (Recall@5):**
+  * `Dense (0.56)` ➔ `BM25 (0.63)` ➔ `Hybrid (0.74)` ➔ **`Hybrid + Reranking (0.85)`**
+* **Key Features:** Includes an evaluation harness covering retrieval metrics, router accuracy, LLM-as-judge scoring, and latency analysis.
 
 ---
 
-🧠 Other Projects
+## 🚀 What I'm Currently Building
 
-- "Syntaxa" (https://github.com/saleh-yasseen/Syntaxa_prompt_generator) — LoRA/QLoRA fine-tuned Phi-3.5 Mini for structured prompt generation, with 386+ organic Hugging Face downloads in its first week.
-- "Arabic Sentiment Analyzer" (https://github.com/saleh-yasseen/Arabic_Sentiment_Analyzer) — Arabic sentiment analysis API built with CAMeL-BERT, FastAPI, and Docker.
-- "URL Phishing & SMS Spam Detection" (https://github.com/saleh-yasseen/URL_phishing_SMS_Spam_detection) — Machine learning pipeline for phishing and spam detection.
-
----
-
-🛠️ Core Stack
-
-AI & ML
-Python · PyTorch · TensorFlow · Transformers · LoRA/QLoRA · Arabic NLP
-
-Agentic AI
-LangGraph · LangChain · RAG · AI Orchestration
-
-Retrieval
-Qdrant · BM25 · Dense Retrieval · RRF · Reranking
-
-Production
-FastAPI · Docker · Streamlit · Hugging Face Spaces
+* 🔬 **Arabic Research Assistant:** An agentic research system designed to decompose complex Arabic queries into sub-questions, research each component, and synthesize grounded answers.
+* 📚 **Personal AI Knowledge Library:** A long-term personal system for organizing, retrieving, and interacting with personal knowledge bases.
 
 ---
 
-🎯 Direction
+## 🧠 Other Projects
 
-I'm working toward building complete AI systems capable of planning, reasoning, retrieving knowledge, using tools, and executing complex tasks reliably.
+<details>
+  <summary><b>View More Projects</b></summary>
+  <br>
 
-<p align="center">
-  <i>Building AI systems that can retrieve, reason, orchestrate, and act.</i>
-</p>---
+  * **Syntaxa:** LoRA/QLoRA fine-tuned Phi-3.5 Mini for structured prompt generation. Achieved **386+ organic Hugging Face downloads** in its first week.
+  * **Arabic Sentiment Analyzer:** Production-ready Arabic sentiment analysis API built with `CAMeL-BERT`, `FastAPI`, and `Docker`.
+  * **URL Phishing & SMS Spam Detection:** End-to-end machine learning pipeline for real-time phishing and spam detection.
+</details>
 
-🤝 Connect
+---
 
-🌐 "Portfolio" (https://saleen.vercel.app) ·
-💼 "LinkedIn" (https://www.linkedin.com/in/saleh-ashref-b16256202/) ·
-🤗 "Hugging Face" (https://huggingface.co/saleen) ·
-📧 salehyassien0@gmail.com
+## 🛠️ Core Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **AI & ML** | Python, PyTorch, TensorFlow, Transformers, LoRA / QLoRA, Arabic NLP |
+| **Agentic AI** | LangGraph, LangChain, RAG, Multi-Agent Orchestration |
+| **Retrieval & Search** | Qdrant, BM25, Dense Retrieval, Reciprocal Rank Fusion (RRF), Reranking |
+| **Production & MLOps**| FastAPI, Docker, Streamlit, Hugging Face Spaces |
+
+---
+
+🎯 **Goal:** Building production-grade AI systems capable of planning, reasoning, retrieving knowledge, using tools, and executing complex tasks reliably.
